@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/cypher-dex/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/cypher-dex/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-The world's news of Wednesday 18 November 2026 in one picture: the APEC summit in Shenzhen, Iran's strikes on Kuwait and Bahrain, the Gaza truce warning at the UN, Nvidia's results, the COP31 fossil-fuel fight and Australia's settler sanctions, with a ticker of four more. `poster.html` is the source, rendered to `entry.png` with headless Chrome at 1024x1024; `main.ts` checks the PNG against the gate's limits and writes it to the output.
+The world's news of Wednesday 18 November 2026 as a 32-story front page with a numbered world map, regional columns and figures. The lead image is an original generated geometric screenprint **editorial illustration**, not a documentary photograph (`summit-art.webp`); story icons and map are drawn in `poster.html`. Render `poster.html` to `entry.png` with headless Chrome at 1024x1024; `main.ts` checks the PNG against the gate's limits and writes it to the output.
 
 ## Run it
 
